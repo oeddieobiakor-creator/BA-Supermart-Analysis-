@@ -1,2 +1,3 @@
-# BA-Supermart-Analysis-
-Supermart Analysis
+# Supermarket Business Analysis & BRD Implementation
+
+This repository contains corrected README...
